@@ -1,2 +1,2 @@
 # Homework list
-[baidu]：https://www.baidu.com
+https://www.baidu.com
