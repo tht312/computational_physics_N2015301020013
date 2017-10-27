@@ -4,4 +4,4 @@
 - [ ] [Exercise_03](http://note.youdao.com/noteshare?id=76d3ede3a3c4e5f24801f6eb0db3a6e9)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_03)
 - [ ] [Exercise_04](http://note.youdao.com/noteshare?id=0915db6fdefd97572d7d527a0abe711b)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_04)
 - [ ] [Exercise_05](http://note.youdao.com/noteshare?id=c93ea35db83826671b4bc4ce627f3768)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_05)
-- [ ] [Exercise_06](http://note.youdao.com/noteshare?id=bc54021aade2c3b94da983714a3c16f7)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_05)
+- [ ] [Exercise_06](http://note.youdao.com/noteshare?id=bc54021aade2c3b94da983714a3c16f7)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_06)
