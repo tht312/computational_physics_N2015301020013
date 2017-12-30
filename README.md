@@ -10,4 +10,5 @@
 - [ ] [期中作业](http://note.youdao.com/noteshare?id=550003536a2f3ea1faa525fda67b2fc4)              [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Midsemester)
 - [ ] [Exercise_09](http://note.youdao.com/noteshare?id=aea9e753c92498c6d0f893cbb47de31b)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_09)
 - [ ] [Exercise_10](http://note.youdao.com/noteshare?id=458d7fd7e1d936645bc454e4dddefc91)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_10)
-- [ ] [Exercise_11](http://note.youdao.com/noteshare?id=b88a16f2dc8925b0520982d0b8b9a53f)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_11)
+- [ ] [Exercise_11](http://note.youdao.com/noteshare?id=b88a16f2dc8925b0520982d0b8b9a53f)          [文件](https://github.com/tht312/computational_physics_N2015301020013/tree/master/Exercise_11)
+- [ ] [Final exam](http://note.youdao.com/noteshare?id=a2b210aaea07f7ecfcc4bc6936af511d)           [文件]
